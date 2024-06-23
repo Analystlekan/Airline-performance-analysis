@@ -52,7 +52,7 @@ For this project, I used Tableau as the primary tool for data analysis and visua
 6. **Average Value for Money Rating**: A bar chart showing the average rating for value for money.
 
 7. **Average Entertainment Rating**: A bar chart showing the average rating for in-flight entertainment.
-
+![Screenshot (8)](https://github.com/Analystlekan/Airline-performance-analysis/assets/172055479/1484c911-fabc-480a-9e01-4c0b88b04a86)
 
 ## Conclusion
 
